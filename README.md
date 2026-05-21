@@ -63,3 +63,4 @@ endmodule
 <img width="1787" height="640" alt="Screenshot 2026-05-21 211712" src="https://github.com/user-attachments/assets/d8621cad-56a4-420e-bee4-f513e5217e5f" />
 
 **RESULTS**
+Thus the 4 Bit Ripple Counter using verilog is implemented and their functionality using their functional tables is validated.
